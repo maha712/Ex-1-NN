@@ -77,28 +77,41 @@ DATASET:
 ![1 1](https://github.com/user-attachments/assets/16d8cdb9-0227-497e-b618-6e19064385d0)
 
 DROPPING THE UNWANTED DATASET:
+
 ![Screenshot (727)](https://github.com/user-attachments/assets/672ed404-7028-4298-911e-bdcbad5b277d)
 
 CHECKING NULL VALUES:
+
 ![Screenshot (728)](https://github.com/user-attachments/assets/77c629b8-7af3-4314-acb7-ae2b5d44b3df)
 
 
 CHECKING FOR DUPLICATION:
+
 ![Screenshot (729)](https://github.com/user-attachments/assets/c48c3b8f-1d42-4fe4-847d-219808855e4a)
 
+
 DESCRIBING THE DATASET:
+
 ![Screenshot (730)](https://github.com/user-attachments/assets/16c8ee20-1e5b-49df-a69b-ddfcdb2cbe28)
 
+
 SCALING THE DATASET:
+
 ![Screenshot (731)](https://github.com/user-attachments/assets/e7dc6217-709c-4462-b050-b1a9db601777)
 
+
 X FEATURES:
+
 ![Screenshot (732)](https://github.com/user-attachments/assets/24bc5efb-5186-444b-b518-9c9dd57c0cb7)
 
+
 Y FEATURES:
+
 ![Screenshot (733)](https://github.com/user-attachments/assets/48b50547-e2f4-4084-87bd-4c5a04b79582)
 
+
 SPLITTING THE TRAINING AND TESTING DATASET:
+
 ![Screenshot (734)](https://github.com/user-attachments/assets/7bf68830-c321-4a55-bee5-1a2f7a443d30)
 
 
