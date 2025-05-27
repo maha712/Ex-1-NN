@@ -74,31 +74,33 @@ print(len(x_test))
 
 ## OUTPUT:
 DATASET:
-![420863162-a35e4788-9992-4790-b149-8ff8eba05b67](https://github.com/user-attachments/assets/5abab1a6-db8f-4ea3-bd85-4e2ec465607b)
+![1 1](https://github.com/user-attachments/assets/16d8cdb9-0227-497e-b618-6e19064385d0)
 
 DROPPING THE UNWANTED DATASET:
-![420863273-7529e14c-021c-44e0-b686-e2db15804ead](https://github.com/user-attachments/assets/82d4dcf4-8143-40d2-8b27-1a3c21bf79e6)
+![Screenshot (727)](https://github.com/user-attachments/assets/672ed404-7028-4298-911e-bdcbad5b277d)
 
 CHECKING NULL VALUES:
-![420863308-51983d5f-602f-491d-a82c-793a68658267](https://github.com/user-attachments/assets/1a089849-038d-47af-9e3f-dfe6adf6f639)
+![Screenshot (728)](https://github.com/user-attachments/assets/77c629b8-7af3-4314-acb7-ae2b5d44b3df)
+
 
 CHECKING FOR DUPLICATION:
-![420863342-888daf01-95f4-4c83-ad80-7465cc4cfe7b](https://github.com/user-attachments/assets/40c31e65-8153-41af-aea2-e92c95866b9e)
+![Screenshot (729)](https://github.com/user-attachments/assets/c48c3b8f-1d42-4fe4-847d-219808855e4a)
 
 DESCRIBING THE DATASET:
-![420863380-1a633ece-a020-487c-9187-f1ed5607ddba](https://github.com/user-attachments/assets/e8450524-dd61-40eb-8929-97a88545b19d)
+![Screenshot (730)](https://github.com/user-attachments/assets/16c8ee20-1e5b-49df-a69b-ddfcdb2cbe28)
 
 SCALING THE DATASET:
-![420863400-e6025ef5-f15f-468c-b124-535417f6ca23](https://github.com/user-attachments/assets/68adf7a4-b7f3-4998-8022-267fbe5a3169)
+![Screenshot (731)](https://github.com/user-attachments/assets/e7dc6217-709c-4462-b050-b1a9db601777)
 
 X FEATURES:
-![420863422-6a279396-d46c-4299-9dcd-02c2a1d638d1](https://github.com/user-attachments/assets/482f4215-4a5a-4d54-a705-261431fd5a1b)
+![Screenshot (732)](https://github.com/user-attachments/assets/24bc5efb-5186-444b-b518-9c9dd57c0cb7)
 
 Y FEATURES:
-![420863446-49cf7fe8-f7e8-4253-829b-23ca374dd9a1](https://github.com/user-attachments/assets/0ea3848b-5823-4f2f-a78a-04d6e2a7694a)
+![Screenshot (733)](https://github.com/user-attachments/assets/48b50547-e2f4-4084-87bd-4c5a04b79582)
 
 SPLITTING THE TRAINING AND TESTING DATASET:
-![420863473-e04487b2-f0d5-4ed8-9cf5-13f08887687d](https://github.com/user-attachments/assets/80d986fa-2ce5-4bdc-bba9-cfa2e92d44a1)
+![Screenshot (734)](https://github.com/user-attachments/assets/7bf68830-c321-4a55-bee5-1a2f7a443d30)
+
 
 ## RESULT:
 Thus, Implementation of Data Preprocessing is done in python  using a data set downloaded from Kaggle.
