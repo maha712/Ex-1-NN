@@ -71,7 +71,7 @@ print(x_train)
 print(len(x_train))
 print(x_test)
 print(len(x_test))
-
+```
 ## OUTPUT:
 DATASET:
 ![1 1](https://github.com/user-attachments/assets/16d8cdb9-0227-497e-b618-6e19064385d0)
